@@ -3,7 +3,7 @@
     "Author": "uPose",
     "Name": "uPose",
     "InternalName": "uPose",
-    "AssemblyVersion": "0.1.0.17",
+    "AssemblyVersion": "0.1.0.18",
     "Description": "Captures a character exactly as it is drawn right now, with its gear, mods and pose, and sends it to the uPose plugin in Unreal Engine 5.9. Works in GPose and outside it. A personal tool that is not distributed.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -22,13 +22,13 @@
     "LoadPriority": 0,
     "Punchline": "Send a character from the game to Unreal Engine with one button.",
     "AcceptsFeedback": false,
-    "DownloadLinkInstall": "https://github.com/BigTurboTM/up-19768761-public/releases/download/v0.1.0.17/uPose-0.1.0.17.zip",
-    "DownloadLinkUpdate": "https://github.com/BigTurboTM/up-19768761-public/releases/download/v0.1.0.17/uPose-0.1.0.17.zip",
-    "DownloadLinkTesting": "https://github.com/BigTurboTM/up-19768761-public/releases/download/v0.1.0.17/uPose-0.1.0.17.zip",
+    "DownloadLinkInstall": "https://github.com/BigTurboTM/up-19768761-public/releases/download/v0.1.0.18/uPose-0.1.0.18.zip",
+    "DownloadLinkUpdate": "https://github.com/BigTurboTM/up-19768761-public/releases/download/v0.1.0.18/uPose-0.1.0.18.zip",
+    "DownloadLinkTesting": "https://github.com/BigTurboTM/up-19768761-public/releases/download/v0.1.0.18/uPose-0.1.0.18.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadCount": 0,
-    "LastUpdate": 1795350956,
-    "Changelog": "- Bend what is behind glass the way the game's glass does (#16)"
+    "LastUpdate": 1795352662,
+    "Changelog": "- Scroll the moving patterns of characterscroll gear the way the game does (#17)"
   }
 ]
