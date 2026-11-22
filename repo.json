@@ -3,7 +3,7 @@
     "Author": "uPose",
     "Name": "uPose",
     "InternalName": "uPose",
-    "AssemblyVersion": "0.1.0.21",
+    "AssemblyVersion": "0.1.0.23",
     "Description": "Captures a character exactly as it is drawn right now, with its gear, mods and pose, and sends it to the uPose plugin in Unreal Engine 5.9. Works in GPose and outside it. A personal tool that is not distributed.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -22,13 +22,13 @@
     "LoadPriority": 0,
     "Punchline": "Send a character from the game to Unreal Engine with one button.",
     "AcceptsFeedback": false,
-    "DownloadLinkInstall": "https://github.com/BigTurboTM/up-19768761-public/releases/download/v0.1.0.21/uPose-0.1.0.21.zip",
-    "DownloadLinkUpdate": "https://github.com/BigTurboTM/up-19768761-public/releases/download/v0.1.0.21/uPose-0.1.0.21.zip",
-    "DownloadLinkTesting": "https://github.com/BigTurboTM/up-19768761-public/releases/download/v0.1.0.21/uPose-0.1.0.21.zip",
+    "DownloadLinkInstall": "https://github.com/BigTurboTM/up-19768761-public/releases/download/v0.1.0.23/uPose-0.1.0.23.zip",
+    "DownloadLinkUpdate": "https://github.com/BigTurboTM/up-19768761-public/releases/download/v0.1.0.23/uPose-0.1.0.23.zip",
+    "DownloadLinkTesting": "https://github.com/BigTurboTM/up-19768761-public/releases/download/v0.1.0.23/uPose-0.1.0.23.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadCount": 0,
-    "LastUpdate": 1795355783,
-    "Changelog": "- Bring the game camera into Unreal and flip between the game's picture and Unreal's (#20)"
+    "LastUpdate": 1795368067,
+    "Changelog": "- Draw each uPose camera with the game's own look, with a slider toward Unreal's filmic look (#22)"
   }
 ]
