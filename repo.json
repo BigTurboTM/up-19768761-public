@@ -3,7 +3,7 @@
     "Author": "uPose",
     "Name": "uPose",
     "InternalName": "uPose",
-    "AssemblyVersion": "0.1.0.36",
+    "AssemblyVersion": "0.1.0.37",
     "Description": "Captures a character exactly as it is drawn right now, with its gear, mods and pose, and sends it to the uPose plugin in Unreal Engine 5.9. Works in GPose and outside it. A personal tool that is not distributed.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -22,13 +22,13 @@
     "LoadPriority": 0,
     "Punchline": "Send a character from the game to Unreal Engine with one button.",
     "AcceptsFeedback": false,
-    "DownloadLinkInstall": "https://github.com/BigTurboTM/up-19768761-public/releases/download/v0.1.0.36/uPose-0.1.0.36.zip",
-    "DownloadLinkUpdate": "https://github.com/BigTurboTM/up-19768761-public/releases/download/v0.1.0.36/uPose-0.1.0.36.zip",
-    "DownloadLinkTesting": "https://github.com/BigTurboTM/up-19768761-public/releases/download/v0.1.0.36/uPose-0.1.0.36.zip",
+    "DownloadLinkInstall": "https://github.com/BigTurboTM/up-19768761-public/releases/download/v0.1.0.37/uPose-0.1.0.37.zip",
+    "DownloadLinkUpdate": "https://github.com/BigTurboTM/up-19768761-public/releases/download/v0.1.0.37/uPose-0.1.0.37.zip",
+    "DownloadLinkTesting": "https://github.com/BigTurboTM/up-19768761-public/releases/download/v0.1.0.37/uPose-0.1.0.37.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadCount": 0,
-    "LastUpdate": 1795447362,
-    "Changelog": "- Maps: bring a zone, or the area around you, into its own Unreal level (milestone 5) (#39)"
+    "LastUpdate": 1795463053,
+    "Changelog": "- Mirror my scene (X-01): one press brings the whole shot to Unreal (#40)"
   }
 ]
