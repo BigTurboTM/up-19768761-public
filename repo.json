@@ -3,7 +3,7 @@
     "Author": "uPose",
     "Name": "uPose",
     "InternalName": "uPose",
-    "AssemblyVersion": "0.1.0.46",
+    "AssemblyVersion": "0.1.0.47",
     "Description": "Captures a character exactly as it is drawn right now, with its gear, mods and pose, and sends it to the uPose plugin in Unreal Engine 5.9. Works in GPose and outside it. A personal tool that is not distributed.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -22,13 +22,13 @@
     "LoadPriority": 0,
     "Punchline": "Send a character from the game to Unreal Engine with one button.",
     "AcceptsFeedback": false,
-    "DownloadLinkInstall": "https://github.com/BigTurboTM/up-19768761-public/releases/download/v0.1.0.46/uPose-0.1.0.46.zip",
-    "DownloadLinkUpdate": "https://github.com/BigTurboTM/up-19768761-public/releases/download/v0.1.0.46/uPose-0.1.0.46.zip",
-    "DownloadLinkTesting": "https://github.com/BigTurboTM/up-19768761-public/releases/download/v0.1.0.46/uPose-0.1.0.46.zip",
+    "DownloadLinkInstall": "https://github.com/BigTurboTM/up-19768761-public/releases/download/v0.1.0.47/uPose-0.1.0.47.zip",
+    "DownloadLinkUpdate": "https://github.com/BigTurboTM/up-19768761-public/releases/download/v0.1.0.47/uPose-0.1.0.47.zip",
+    "DownloadLinkTesting": "https://github.com/BigTurboTM/up-19768761-public/releases/download/v0.1.0.47/uPose-0.1.0.47.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadCount": 0,
-    "LastUpdate": 1795514804,
-    "Changelog": "- Weather inside map levels: roofs stop rain, snow and dust; wet ground, rainbow, plant wind and lamps as the game does them (#42)"
+    "LastUpdate": 1795534391,
+    "Changelog": "- Wet characters: characters get wet in the rain and dry out as they do in the game (#46)"
   }
 ]
