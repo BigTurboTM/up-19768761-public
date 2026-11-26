@@ -3,7 +3,7 @@
     "Author": "uPose",
     "Name": "uPose",
     "InternalName": "uPose",
-    "AssemblyVersion": "0.1.0.58",
+    "AssemblyVersion": "0.1.0.65",
     "Description": "Captures a character exactly as it is drawn right now, with its gear, mods and pose, and sends it to the uPose plugin in Unreal Engine 5.9. Works in GPose and outside it. A personal tool that is not distributed.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -22,13 +22,13 @@
     "LoadPriority": 0,
     "Punchline": "Send a character from the game to Unreal Engine with one button.",
     "AcceptsFeedback": false,
-    "DownloadLinkInstall": "https://github.com/BigTurboTM/up-19768761-public/releases/download/v0.1.0.58/uPose-0.1.0.58.zip",
-    "DownloadLinkUpdate": "https://github.com/BigTurboTM/up-19768761-public/releases/download/v0.1.0.58/uPose-0.1.0.58.zip",
-    "DownloadLinkTesting": "https://github.com/BigTurboTM/up-19768761-public/releases/download/v0.1.0.58/uPose-0.1.0.58.zip",
+    "DownloadLinkInstall": "https://github.com/BigTurboTM/up-19768761-public/releases/download/v0.1.0.65/uPose-0.1.0.65.zip",
+    "DownloadLinkUpdate": "https://github.com/BigTurboTM/up-19768761-public/releases/download/v0.1.0.65/uPose-0.1.0.65.zip",
+    "DownloadLinkTesting": "https://github.com/BigTurboTM/up-19768761-public/releases/download/v0.1.0.65/uPose-0.1.0.65.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadCount": 0,
-    "LastUpdate": 1795601586,
-    "Changelog": "- Character meshes keep the game's vertex colours, so Unreal's materials read its masks (#57)"
+    "LastUpdate": 1795686049,
+    "Changelog": "- Pre-render hair as strands: grooms traced from the game's hair cards, bound and settled (L-04) (#64)"
   }
 ]
